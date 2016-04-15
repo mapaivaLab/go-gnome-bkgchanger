@@ -1,5 +1,5 @@
 # go-gnome-bkgchanger
-Tinny Gnome Background Changer using the go language
+Tiny Gnome Background Changer using the go language
 
 ## Prerequisities
 - [Go](https://golang.org/dl/)
