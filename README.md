@@ -8,7 +8,9 @@ Tiny Gnome Background Changer using the go language
 Execute:
 
 ```sh
-go build main.go
+go get github.com/mapaivaLab/go-gnome-bkgchanger
+# Install it
+go install github.com/mapaivaLab/go-gnome-bkgchanger
 # To run the program you just need to specify a folder containing the images and a period to change the pics
-./main "/home/myuser/Images/Wallpapers" 30
+./go-gnome-bkgchanger "/home/myuser/Images/Wallpapers" 30
 ```
